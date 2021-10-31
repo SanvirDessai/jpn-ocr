@@ -28,6 +28,14 @@ const LANGUAGES = [
     {
         label: 'Hindi',
         value: 'hin'
+    },
+    {
+        label: 'Arabic',
+        value: 'ara'
+    },
+    {
+        label: 'Syriac',
+        value: 'syr'
     }
 ]
 
